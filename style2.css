@@ -1,7 +1,7 @@
 h1{
 text-align: center;
 color: rgb(9, 10, 10);
-background: #e2b6b6;
+    background-color: #9f8c6d;
 font-weight: bolder;
 font-size: xx-large;
 }
@@ -10,9 +10,9 @@ font-size: xx-large;
    font-weight: bolder;
 }
 body{
+background:  #c9bba4;;
     
    
-    background: rgb(204, 175, 213);
 }
 p{
     font-size: x-large;
@@ -26,7 +26,7 @@ p{
 }
 
 img {
-    width: 400px;
+    width: 300px;
     height: auto;
     border: 2px solid black;
     border-radius: 10px; /* Rounded corners */
